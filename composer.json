@@ -1,5 +1,5 @@
 {		
-    "name": "tailieuweb/backend-web2",		
+    "name": "namnguyen213/backend-web2",		
     "description": "Create text",		
     "keywords": [		
     ],		
@@ -15,7 +15,7 @@
     },		
     "autoload": {		
     "psr-4": {		
-    "Tailieuweb\\backend\\": "/"		
+    "D\\": "/"		
     }		
     },		
     "minimum-stability": "dev"		
